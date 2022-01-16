@@ -1,3 +1,5 @@
+package Java_tutorial.classes;
+
 public class Alunos {
     private String nome;
     private char classe;

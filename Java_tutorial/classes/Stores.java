@@ -1,3 +1,5 @@
+package Java_tutorial.classes;
+
 public class Stores {
   // instance fields
   String productType;

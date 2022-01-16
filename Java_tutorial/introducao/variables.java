@@ -1,4 +1,5 @@
 //Java possui tipagem estática, não aceitando de tipos não correspondentes.
+package Java_tutorial.introducao;
 
 public class variables {
     public static void main (String[] args) {

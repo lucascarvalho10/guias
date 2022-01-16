@@ -1,3 +1,5 @@
+package Java_tutorial.classes;
+
 public class Numero {
 
     public static int fatorial(int num) {
